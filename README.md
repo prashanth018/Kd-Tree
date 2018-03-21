@@ -6,5 +6,5 @@
  ReadPoints \
  CreateTree \
  PrintTree \
- PrintTree prints the points in level order fashion \
+ PrintTree prints the points in level order fashion 
 
