@@ -69,7 +69,7 @@ class KDTree:
                 parent.left.data = self.Points[i]
             #self.PrintTree(self.root)
         return self.root
-                
+'''                
 def main():
     Kdt = KDTree(2,7)
     print "Awaiting to read",Kdt.NumOfPoints,"points."
@@ -79,8 +79,8 @@ def main():
     print "Tree Created"
     print "Printing Tree"
     Kdt.PrintTree(Root)
-
-main()
+'''
+#main()
     
     
     
